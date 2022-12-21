@@ -1,7 +1,7 @@
-h1{
+.header-logo{
 
-    color: rgb(19, 190, 185);
-    background-color: rgb(138, 41, 41);
+    max-width: 24px;
+    height: auto;
 
 
 }
