@@ -1,7 +1,16 @@
-.header-logo{
+.header-pic{
 
-    max-width: 24px;
+    max-width: 50px;
     height: auto;
+
+
+}
+
+.navbar{
+
+    display: flex;
+    justify-content: space-between;
+
 
 
 }
