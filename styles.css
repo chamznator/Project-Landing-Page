@@ -1,3 +1,12 @@
+.section-1 {
+    background-color: #1f2937;
+    
+    max-width: 1080px;
+    margin: auto;
+}
+
+
+
 .header-pic{
 
     max-width: 50px;
@@ -10,7 +19,67 @@
 
     display: flex;
     justify-content: space-between;
+    align-items: center ;
+    
 
 
+
+}
+
+.header-logo{
+   
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.title-section{
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+#title-header{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: extra-bold;
+}
+
+#title-paragraph{
+    font-size: 18px;
+    color: #E5E7EB;
+    
+}
+#sign-up{
+    color: #F9FAF8;
+    background-color: #3882f6;
+    border-radius: 8px;
+    width: 170px;
+    height: 40px;
+}
+.nav-links a{
+    font-size: 18px;
+    color: #E5E7EB;
+    
+}
+.nav-links{
+    align-items: center;
+}
+
+.left-title{
+   
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+ 
+  
+  
+}
+
+.main-img{
+    width: 745px;
+    height: 230px;
+    object-fit: fill;
 
 }
