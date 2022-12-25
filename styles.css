@@ -83,3 +83,27 @@
     object-fit: fill;
 
 }
+/* Section 2 */
+
+.section-2{
+    max-width: 1080px;
+    margin:auto;
+}
+.section-title{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.option-images{
+    display: flex;
+    justify-content: center;
+    
+}
+.image img{
+    width: 140px;
+    height: 140px;
+}
