@@ -92,9 +92,8 @@
 }
 
 .main-img{
-    width: 1028px;
-    height: 255px;
-    object-fit: fill;
+    width: 1278px;
+    height: 318px;
 }
 /* Section 2 */
 
@@ -125,7 +124,8 @@
 .image{      display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 30px;}
+    padding: 30px;
+    min-width: 0;}
 
 .image img{
     width: 165px;
@@ -133,6 +133,7 @@
     border-radius: 8px;
     border-color: #3882f6;
     border: 5px solid #3882f6;
+    
     
 }
 
